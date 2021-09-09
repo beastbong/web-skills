@@ -312,7 +312,7 @@ export class Description extends LitElement {
 			// Add audio for lols
 			requestAnimationFrame(() => {
 				playAudio(`../../audio/party.mp3`, 0.2);
-				playAudio(`https://raw.githubusercontent.com/beastbong/web-skills/master/audio/shot.mp3`, 0.7);
+				playAudio(`../../audio/shot.mp3`, 0.7);
 				setTimeout(() => {
 					playAudio(`../../audio/paper.mp3`, 0.3);
 				}, 150);
