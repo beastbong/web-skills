@@ -12,14 +12,13 @@ export const CLOSE_DESCRIPTION_EVENT = "closeDescription";
 export const ALLOW_NATIVE_SHARE = window.innerWidth < DEFAULT_COMPACT_PX;
 
 export const FIREBASE_CONFIG = {
-	apiKey: "AIzaSyAeptLYIAEF7MtzFjKo0XYtC6i0BXbqdjI",
-	authDomain: "web-skills.firebaseapp.com",
-	databaseURL: "https://web-skills.firebaseio.com",
-	projectId: "web-skills",
-	storageBucket: "web-skills.appspot.com",
-	messagingSenderId: "796050122198",
-	appId: "1:796050122198:web:422fd7fee1037c3a2a3077"
-};
+	apiKey: "AIzaSyB1DSZfY7fwnDMCoJCLK45rsN6Vf2Qw0dM",
+	authDomain: "web-skills-56936.firebaseapp.com",
+	projectId: "web-skills-56936",
+	storageBucket: "web-skills-56936.appspot.com",
+	messagingSenderId: "413351852556",
+	appId: "1:413351852556:web:a75a65c7397a2ecd74cc29",
+	measurementId: "G-J2VEGXMFRZ"};
 
 export const LAZY_IMG_INTERSECTION_OPTIONS = {
 	rootMargin: '200px',
